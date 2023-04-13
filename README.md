@@ -5,7 +5,7 @@ First you have to make sure that you have all dependencies in place.
 You can create an anaconda environment called *DFIN* using
 
 ```
-  conda env create -n DFIN python=3.6 ## recommended python=3.6+
+conda env create -n DFIN python=3.6 ## recommended python=3.6+
 conda activate DFIN
 sudo pip3 install torch torchvision 
 sudo pip3 install numpy scipy matplotlib
