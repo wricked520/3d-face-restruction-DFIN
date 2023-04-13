@@ -1,11 +1,12 @@
-# DFIN
+# DFIN 
+## We will put all the codes up after the paper is officially published
 ## Installation
 First you have to make sure that you have all dependencies in place.
 You can create an anaconda environment called *DFIN* using
 
 ```
   conda env create -n DFIN python=3.6 ## recommended python=3.6+
-conda activate pfrrnet
+conda activate DFIN
 sudo pip3 install torch torchvision 
 sudo pip3 install numpy scipy matplotlib
 sudo pip3 install dlib
@@ -32,5 +33,7 @@ python benchmark.py
 To train our PFRRNetwith wpdc, wpdc68 and graph_structure Loss, use
 ```
 cd training
-bash train_pfrrnet.sh
+bash train_dfin.sh
 ```
+## Futher Information
+If you have any problems with the code, please list the problems you encountered in the issue area, and I will reply you soon. Thanks for the baseline work [3DDFA](https://github.com/cleardusk/3DDFA).
