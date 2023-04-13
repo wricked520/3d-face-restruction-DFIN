@@ -14,6 +14,12 @@ sudo pip3 install opencv-python
 sudo pip3 install cython
 sudo pip3 install mmcv-full
 ```
+## Data
+| Data      | Download Link | Description     |
+| :---:        |    :----:   |          :---: |
+| train.configs      | [BaiduYun](https://pan.baidu.com/s/1ozZVs26-xE49sF7nystrKQ#list/path=%2F), 217M       |The directory containing 3DMM params and filelists of training dataset   |
+| train_aug_120x120.zip   | [BaiduYun](https://pan.baidu.com/s/19QNGst2E1pRKL7Dtx_L1MA)        | The cropped images of augmentation training dataset   |
+| test.data.zip   | [BaiduYun](https://pan.baidu.com/s/1DTVGCG5k0jjjhOc8GcSLOw )       | The cropped images of AFLW and ALFW-2000-3D testset      |
 ## Generation
 First, compile the extension modules.
 ```
