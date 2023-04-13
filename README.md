@@ -36,7 +36,7 @@ To eval our DFIN , use
 python benchmark.py
 ```
 ## Training
-To train our PFRRNetwith wpdc, wpdc68 and graph_structure Loss, use
+To train our DFIN with wpdc, wpdc68 and graph_structure Loss, use
 ```
 cd training
 bash train_dfin.sh
