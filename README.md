@@ -1,5 +1,13 @@
 # DFIN 
-## We will put all the codes up after the paper is officially published
+## Our paper has officially published
+Title: Deformable Feature Interaction Network and Graph Structure Reasoning for 3D Dense Alignment and Face Reconstruction
+IEEE Address:  (https://ieeexplore.ieee.org/abstract/document/10191307)
+
+Welcome to read our paper,we would love to hear from you!
+
+
+
+
 ## Installation
 First you have to make sure that you have all dependencies in place.
 You can create an anaconda environment called *DFIN* using
